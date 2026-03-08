@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard
 
-(img/seu-print-principal.png)
+(Dashboard.png)
 
 ## 🎯 Objetivo
 Transformar dados brutos de vendas em insights estratégicos para a tomada de decisão sobre categorias de produtos e performance regional.
